@@ -1,0 +1,1 @@
+"use strict";$(".goods-list dd").css("display","none");
